@@ -1,0 +1,15 @@
+c:\users\cat-ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\bin\Debug\netstandard2.0\TesseractOcr.deps.json
+c:\users\cat-ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\bin\Debug\netstandard2.0\TesseractOcr.dll
+c:\users\cat-ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\obj\Debug\netstandard2.0\TesseractOcr.csproj.CoreCompileInputs.cache
+c:\users\cat-ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\obj\Debug\netstandard2.0\TesseractOcr.App.xaml.g.cs
+c:\users\cat-ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\obj\Debug\netstandard2.0\TesseractOcr.Views.AboutPage.xaml.g.cs
+c:\users\cat-ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\obj\Debug\netstandard2.0\TesseractOcr.Views.ItemDetailPage.xaml.g.cs
+c:\users\cat-ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\obj\Debug\netstandard2.0\TesseractOcr.Views.ItemsPage.xaml.g.cs
+c:\users\cat-ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\obj\Debug\netstandard2.0\TesseractOcr.Views.MainPage.xaml.g.cs
+c:\users\cat-ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\obj\Debug\netstandard2.0\TesseractOcr.Views.NewItemPage.xaml.g.cs
+c:\users\cat-ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\obj\Debug\netstandard2.0\TesseractOcr.AssemblyInfoInputs.cache
+c:\users\cat-ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\obj\Debug\netstandard2.0\TesseractOcr.AssemblyInfo.cs
+c:\users\cat-ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\obj\Debug\netstandard2.0\TesseractOcr.dll
+c:\users\cat-ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\obj\Debug\netstandard2.0\TesseractOcr.pdb
+c:\users\cat-ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\bin\Debug\netstandard2.0\TesseractOcr.pdb
+C:\Users\Cat-Ok\source\repos\TesseractOcr\TesseractOcr\TesseractOcr\obj\Debug\netstandard2.0\TesseractOcr.csprojResolveAssemblyReference.cache
